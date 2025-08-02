@@ -1,4 +1,4 @@
-# 🧠💹 CoinGenius: Financial Data Extractor & Reporter
+#CoinGenius: Financial Data Extractor & Reporter
 
 **CoinGenius** is an AI-powered tool that extracts live crypto price data from Yahoo Finance, visualizes market trends, and delivers plain-English insights using OpenAI. Built with Streamlit for a fast, intuitive UI.
 
@@ -6,10 +6,10 @@
 
 ## 🚀 Features
 
-- 📥 **Fetch Live Crypto Data** — Get real-time price history for major cryptocurrencies
-- 📈 **Visualize Market Trends** — Clean, readable trend charts via Matplotlib
-- 🧠 **AI-Powered Insights** — OpenAI analyzes market behavior and offers suggestions
-- 🌐 **Streamlit Interface** — Web-based UI for fast user interaction
+- **Fetch Live Crypto Data** — Get real-time price history for major cryptocurrencies
+- **Visualize Market Trends** — Clean, readable trend charts via Matplotlib
+- **AI-Powered Insights** — OpenAI analyzes market behavior and offers suggestions
+- **Streamlit Interface** — Web-based UI for fast user interaction
 
 ---
 
